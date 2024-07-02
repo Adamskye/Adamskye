@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Adamskye
-- 👀 I’m interested in game programming and (in the future) more low-level systems programming.
-- 🌱 I’m currently learning C++ at home and Python in school.
-- 💞️ I’m looking to collaborate on nothing right now because I'm working independently.
-- 📫 How to reach me: don't.
+- Hi, I’m @Adamskye
+- I'm interested in C, C++ and Rust programming, particularly for low-level stuff.
